@@ -1,0 +1,6 @@
+{
+    "dtm_in": "C:/Users/dtmfel.tif",
+    "dam_in": "C:/Users/dam.shp",
+    "dtm_dam_out": "C:/Users/dam_dem_out.tif",
+    "dtm_dam_out_fill": "C:/Users/dam_dem_out_fill.tif"
+}
